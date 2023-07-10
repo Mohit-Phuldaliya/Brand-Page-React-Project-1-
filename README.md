@@ -1,1 +1,1 @@
-![BRAND PAGE](./public/Images/BrandPage.jpeg)
+(./public/Images/BrandPage.jpeg)
