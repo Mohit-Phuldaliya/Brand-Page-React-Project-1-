@@ -1,1 +1,1 @@
-![MasterHead](./public/Images/BrandPage.jpeg)
+![Brand Page](./public/Images/BrandPage.jpg)
