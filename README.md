@@ -1,1 +1,1 @@
-![BRAND PAGE](./public/Images/Product%20Page.png)
+![BRAND PAGE](./public/Images/BrandPage.jpeg)
